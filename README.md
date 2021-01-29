@@ -1,4 +1,4 @@
-# face_detection_video.py
+# face_detection_video
 
 # import numpy as np
 import cv2
